@@ -1,8 +1,8 @@
 {
- "name": "go-hello-world",
+ "name": "da-abs",
  "version": "1.0.0",
  "repository": {
     "type": "git",
-    "url": "https://github.com/IBM-Bluemix/go-hello-world.git"
+    "url": "https://github.com/renjusherston/da-abs.git"
  }
 }

@@ -1,6 +1,6 @@
 FROM golang:1.5
 
-ADD . /go/src/github.com/IBM-Bluemix/go-hello-world
+ADD . /go/src/github.com/IBM-Bluemix/da-abs
 
 # Build the outyet command inside the container.
 # (You may fetch or manage dependencies here,
